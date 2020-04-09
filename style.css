@@ -1,0 +1,35 @@
+h1 {
+    background-color: rgb(192, 34, 131);
+    color: rgb(17, 5, 5);
+    text-align: center;
+    font-style: initial;
+    margin-top: auto;
+    padding: 1cm;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 12;
+    font-weight: 100 ;
+    border-collapse: separate;
+}
+h2 {
+    color: rgb(117, 97, 97);
+}
+h3 {
+
+}
+body {
+    background-color:rgb(252, 173, 255);
+    color: darkslateblue;
+    border: 3cm;
+    margin: auto;
+    width: auto;
+    padding: 5%;
+    height: auto;
+}
+div {
+    text-align: center;
+    margin-right: auto;
+}
+table {
+    column-gap: 20cm;
+    margin-right: auto;
+}
