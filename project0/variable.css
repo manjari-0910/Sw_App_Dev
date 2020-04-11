@@ -1,0 +1,29 @@
+@media (max-width: 500px) {
+  .study {
+    display: none;
+  }
+}
+h1 {
+  color: rgb(44, 8, 41);
+  font-style: italic;
+  text-align: center;
+  font: bold;
+}
+
+ul > li {
+  font-size: 20px;
+  color: purple;
+}
+
+ol {
+  font-size: 20px;
+  color: rgb(102, 171, 184);
+}
+
+.study {
+  border: 5px;
+  padding: 10px;
+  color: #6e3e5e;
+}
+
+/*# sourceMappingURL=variable.css.map */

@@ -1,0 +1,38 @@
+$color : rgb(5, 0, 1);
+
+@media (max-width: 500px) {
+    .study{
+    display : none;
+    }
+}
+
+h1{
+    color: rgb(230, 224, 224);
+    font-style: oblique;
+    text-align: center;
+    font:bold;
+}
+
+ul > li{
+    font-size: 20px;
+    color :purple;
+}
+
+ol{
+    font-size: 20px ;
+    color : $color;
+}
+%message{
+    
+        border: 5px ;
+        padding: 10px;
+        color:rgb(233, 223, 223);
+        
+}
+.study {
+    @extend %message;
+}
+
+
+
+
